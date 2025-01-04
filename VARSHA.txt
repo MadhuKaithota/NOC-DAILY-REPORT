@@ -11,3 +11,10 @@ Araria - Escalated to Mehul Sir as Isp was not giving any update about the link.
 Second shift update 2/1/25
 Paranpur - FLT is done. Link is restored.
 CCNA 2 VIDEOS.
+
+Second shift update 4/1/5
+ Keshiyari - FLT is done. Link is restored.
+ Nabinagar - FLT is done. Link is restored.
+ Raniganj - After FLT sim link is restored. Mailed to INEXT for wan link.
+ Dogachia - FLT is done. Link is restored.
+ Tyor burjung- FLT is done. Link is restored.
