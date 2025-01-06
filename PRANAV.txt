@@ -4,3 +4,8 @@ First shift update, 03/01/2025
 3.ujjivan Ballia : Called the lpoc checked the connection through video call informed ISP about link down
 4. Appnomic : Acknowledged the mail and informed Ashwin 
 CCNA 3 Videos
+
+Night Shift update 05/01/2025
+1. Corteva dhamandhavi : Link was down on sunday still it was not restored so sent a followup mail to ISP GTPL about the update on the link status and acknowledged the mail from Expereo also
+2. Mars Himachal : Sent follow up mail for ISP regarding RFO
+CCNA 4 videos  
