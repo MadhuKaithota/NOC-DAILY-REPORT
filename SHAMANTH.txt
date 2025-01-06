@@ -17,3 +17,6 @@ First Shift Update (05-01-25)
 - Expereo Rajankunte (Primary and Secondary) : Both the links were down. Acknowledged the mail and called the LPOC (7338450800) to check the power status, but he informed that no one is present at the site. So, a ticket was raised with the ISP, GTPL. Later, called the LPOC again and as confirmed, there is a UPS breakdown at the site. This has been conveyed to the client and the same has been updated in GPLI.
 - Tempel Chennai : The link was down. Acknowledged the mail and called the LPOC (9677020626) to check the power status, but no one answered the call. So, a ticket was raised with the ISP, Nivid Telecom. The ISP were asking for a media indication, so I called the LPOC again. He said there is no power outage, but no one is at the site. Same has been updated in GLPI.
 - Corteva Nadipalli - The link was down. Called LPOC (9502677688) to check the power status. He confirmed that there is a power outage at the site. Same has been updated in GLPI.
+
+Second Shift Update (06-01-25):
+No mails.
