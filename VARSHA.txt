@@ -18,3 +18,9 @@ Second shift update 4/1/5
  Raniganj - After FLT sim link is restored. Mailed to INEXT for wan link.
  Dogachia - FLT is done. Link is restored.
  Tyor burjung- FLT is done. Link is restored.
+
+General shift update 6/1/5
+Corteva dhamandevi-  Taken update from gtpl and shared it with expereo. The link is restored. Asked reason for fiber cut with gtpl.
+Hanigur - FLT is done. Link is restored.
+Gopiganj - WAN link is down. Informed to ISP Inext.
+Nethanhalli- About WAN link informed to ISP. Later link is restored.
