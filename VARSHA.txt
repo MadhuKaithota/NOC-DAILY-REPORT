@@ -24,3 +24,11 @@ Corteva dhamandevi-  Taken update from gtpl and shared it with expereo. The link
 Hanigur - FLT is done. Link is restored.
 Gopiganj - WAN link is down. Informed to ISP Inext.
 Nethanhalli- About WAN link informed to ISP. Later link is restored.
+
+General shift update 7/1/5
+Dahod - After FLT also the link was down. Informed to ISP. It was fiber cut issue. Now the link is restored also informed to NOC with mail.
+Lunawada - FLT is done. Link is restored.
+Gopiganj - ISP restored the link.
+Araria and Raniganj - ISP informed that whole BSNL cable is fault in town and it is difficult to restore it in a day.
+Transad - The new device reached the branch. I have asked LPOC to connect the cable to new device. Now the link is working.
+Corteva dhamandevi - As link was down again. I have provided the ETR to Expereo. Later Mehul and Rohit Sir continued this case.
