@@ -13,3 +13,8 @@ CCNA 4 videos
 Night Shift Update 06/01/2025
 No mails
 CCNA 5 videos
+
+Night Shift Update 07/01/2025
+1. Ujjivan Dhahod 4519 : Asked the RFO for the link down provided the reason for the link down.
+2.Corteva dhamandevi : Expereo mailed by saying link was not stable so sent them uptime graph and firewall ping status as a logs stating no issues from our end.  
+CCNA 2 videos
