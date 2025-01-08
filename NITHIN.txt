@@ -9,3 +9,27 @@ CCNA 4 videos.
 Night shift update: [3-1-25]
 No emails.
 CCNA 3 videos.
+
+Night shift update: [5-1-25]
+Expereo vesiveus pune link was down TT raised to ISP jio.
+CCNA 4 videos.
+
+First shift update: [6-1-25]
+Ujjivan Vadali link was down FLT was conducted hence the link was restored.
+Ujjivan Abalova link was down FLT was conducted hence the link was restored.
+Ujjivan Nethanhalli there was a mail from Ujjivan NOC that the link was having PD issue when checked WAN link was down informed to ISP and was restored within 30min.
+Ujjivan Shyampura there was a call from Ram bhaddhur from Ujjivan NOC team regarding PD issue FLT was conducted and the SS has been shared with them.
+Expereo corteva lote link is down since yesterday customer has escalated the issue and asked for pictures of OFC breakdown and they also complained about the link instability since 1 month after so many requests to ISP there was no effort from them to provide the pictures. We tried reaching  Rohit sir for escalation but even he was unable to provide the pictures and the ETR is further extended for 4hrs. Expereo is disappointed by this. They have escalated the issue to a higher level. Still the link is not restored.
+Ujjivan Araria WAN link issue still no restoration is done as it has been 2weeks or more and the issue has been escalated.
+
+Updated all incidents on GLPI.
+
+
+First shift update: [7-1-25]
+Ujjivan jhalawar link was down FLT was conducted and the link was restored.
+Ujjivan Abalouva link was down FLT was conducted and the link was restored.
+Ujjivan Dogchia link was down FLT was conducted and the link was restored.
+Expereo Corteva Lote link was down again, informed to ISP customer was escalating the issue for the instability of the link even we have escalated the issue to ISP end. The link was found faulty in the upstream end but ISP GTPL didn't specify the exact issue on the link. ETR was 4hrs and the customer asked us to reduce it to 2hrs since it would effect their ongoing work. But there was no compromise on the ETR.
+CCNA 2 video.
+
+First shift update.                                                                                                                                           Ujjivan Bijapura link was down FLT has been conducted successfully and the link is restored.                                                                  Ujjivan Handiganuru link was down FLT has been conducted successfully and the link is restored.                                                               CCNA 2 videos.
