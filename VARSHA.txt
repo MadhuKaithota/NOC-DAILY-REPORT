@@ -32,3 +32,10 @@ Gopiganj - ISP restored the link.
 Araria and Raniganj - ISP informed that whole BSNL cable is fault in town and it is difficult to restore it in a day.
 Transad - The new device reached the branch. I have asked LPOC to connect the cable to new device. Now the link is working.
 Corteva dhamandevi - As link was down again. I have provided the ETR to Expereo. Later Mehul and Rohit Sir continued this case.
+
+Second shift update 8/1/25
+Kongarapalyam - FLT is done. Link is restored.
+BamanwasAlwar - FLT is done. Link is restored.
+Parganas - FLT is done. Link is restored.
+Nilgiris - FLT is done. Link is restored.
+South africa to new delhi - Delta communication mailed that link is down. Login to firewall and checked that no problem in the link. WAN ip is also pinging. Same conveyed to client. Delta asked for client LAN status so shared the lan ip ping report to the client.
