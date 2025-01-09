@@ -23,3 +23,6 @@ No mails.
 
 Second Shift Update (07-01-25):
 -Corteva Lote – The link is up and running and the RFO was already provided. The client asked whether the fix is permanent and requested that the link be monitored for a week. Informed Rohit Sir about this and the response has been shared.
+
+Second Shift Update (09-01-25):
+- Expereo Jaipur - The link is experiencing some packet degradation, which has already been reported to the ISP. but there has been no response from them. A follow-up mail has been sent and the same has been updated in GLPI.
