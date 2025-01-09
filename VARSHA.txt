@@ -39,3 +39,7 @@ BamanwasAlwar - FLT is done. Link is restored.
 Parganas - FLT is done. Link is restored.
 Nilgiris - FLT is done. Link is restored.
 South africa to new delhi - Delta communication mailed that link is down. Login to firewall and checked that no problem in the link. WAN ip is also pinging. Same conveyed to client. Delta asked for client LAN status so shared the lan ip ping report to the client.
+
+General shift update 9/1/2025
+Irruppu - FLT is done. Link is restored.
+Jaipur Fiber - Received a service degradation mail from expereo. Informed to ISP Raagsa communication. Shared the ping snapshot from firewall. Isp will check it.
