@@ -26,3 +26,7 @@ Second Shift Update (07-01-25):
 
 Second Shift Update (09-01-25):
 - Expereo Jaipur - The link is experiencing some packet degradation, which has already been reported to the ISP. but there has been no response from them. A follow-up mail has been sent and the same has been updated in GLPI.
+
+Second Shift Update (10-01-25):
+- Expereo Masaipet: The link is experiencing packet degradation. Logged into the firewall and performed a ping test, which showed packet loss. A ticket has been raised with the ISP. This has been communicated to the client and updated in GLPI.
+- Ujjivan Gamagoa: The primary link is down due to a fiber cut. An FE visit was scheduled for today. Contacted the FE, and there is a delay in fixing the fiber issue due to ongoing electrical work. They informed me that the work will be conducted tomorrow morning and completed by 11 am. Same has been updated in GLPI.
