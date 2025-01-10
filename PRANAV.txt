@@ -22,3 +22,8 @@ CCNA 2 videos
 Night Shift Update 08/01/2025
 No mails during shift
 CCNA 5 videos
+
+Night Shift Update 09/01/2025
+1. Corteva Jaipur (Service degradation) : Mail from Expereo regarding the update for the mentioned issue acknowledged it
+2. Corteva Jaipur : Link was down so raised the ticket with the isp and acknowlwdged the mail from expereo also.
+CCNA 3 videos
