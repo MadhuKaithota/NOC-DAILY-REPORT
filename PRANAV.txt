@@ -27,3 +27,7 @@ Night Shift Update 09/01/2025
 1. Corteva Jaipur (Service degradation) : Mail from Expereo regarding the update for the mentioned issue acknowledged it
 2. Corteva Jaipur : Link was down so raised the ticket with the isp and acknowlwdged the mail from expereo also.
 CCNA 3 videos
+
+Night Shift Update 10/01/2025
+1.Corteva Masaipet : Asked the update on the service degradation issue by Expereo acknowledged the mail by saying still waiting for the updates from our backend team.
+CCNA 3 videos
