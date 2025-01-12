@@ -43,3 +43,8 @@ South africa to new delhi - Delta communication mailed that link is down. Login 
 General shift update 9/1/2025
 Irruppu - FLT is done. Link is restored.
 Jaipur Fiber - Received a service degradation mail from expereo. Informed to ISP Raagsa communication. Shared the ping snapshot from firewall. Isp will check it.
+
+First shift update 12/1/2025
+Corteva Jaipur - Rfo provided to Expereo.
+God-pune fiber - TT raised to TCL. Link is restored and RFO will be shared in 24 hours.
+
