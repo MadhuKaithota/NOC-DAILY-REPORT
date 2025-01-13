@@ -41,3 +41,5 @@ Second Shift Update (12-01-25):
 - Expereo Jaipur RF: The link was down. Called the LPOC and they confirmed there was no power issue. A ticket was raised with the ISP regarding the issue. Called the ISP to get an update regarding the ticket raised for the service outage issue. They informed me that this link has already been closed. Same has been updated in GLPI.
 - Ujjivan NOC: The link for branch Nethanahalli is down. They have requested us to check the issue and restore the link. Acknowledged the mail.
 
+Second Shift Update (13-01-25):
+- Expereo Jaipur RF: The link is up. The client was asking for the RFO but the ISP informed that the link was down due to a firewall shutdown on the customer’s end. Acknowledged the mail, and the same has been updated in GLPI.
