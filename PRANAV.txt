@@ -44,6 +44,12 @@ First shift update 13/01/2025
 3. Ujjivan Abalouva : Did FLT by calling the LPOC
 CCNA : Didn't wwatched new videos revised the previous concepts.
 
+First shift update 14/01/2025
+1. Corteva masaipet : mail regarding service degradation sent them firewall ping status saying no issue from our end.
+2. Corteva Jaipur : Asked the RFO acknowledged the mail and sent uptime graph also.
+3. Mars thane : Asked the RFO acknowledged the mail.
+CCNA 1 video
+
 
 
 
