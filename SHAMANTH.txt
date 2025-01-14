@@ -43,3 +43,7 @@ Second Shift Update (12-01-25):
 
 Second Shift Update (13-01-25):
 - Expereo Jaipur RF: The link is up. The client was asking for the RFO but the ISP informed that the link was down due to a firewall shutdown on the customer’s end. Acknowledged the mail, and the same has been updated in GLPI.
+
+Second Shift Update (14-01-25):
+* Tempel Chennai - The link is up. The client was asking for an RFO, so I sent a follow-up email to the ISP, Nivid Telecom.
+* Expereo Masaipet - The client again requested an investigation regarding the service degradation. Logged into the FortiGate on-site device, performed a ping test with 2500 packets, and observed no packet loss. This has been communicated to the client.
