@@ -47,3 +47,10 @@ Second Shift Update (13-01-25):
 Second Shift Update (14-01-25):
 * Tempel Chennai - The link is up. The client was asking for an RFO, so I sent a follow-up email to the ISP, Nivid Telecom.
 * Expereo Masaipet - The client again requested an investigation regarding the service degradation. Logged into the FortiGate on-site device, performed a ping test with 2500 packets, and observed no packet loss. This has been communicated to the client.
+
+Second Shift Update (16-01-25):
+
+- Expereo Jaipur Fiber: The client has mentioned that the issue is still unresolved. Logged into the onsite Fortigate device and performed ping test with 2500 counts towards both 8.8.8.8, observing no packet loss. This information was conveyed to the client. But the client is still dissatisfied, as the link continues to experience intermittent fluctuations and instability. This issue has been communicated to the ISP. Same has been updated in GLPI.
+- Expereo Masaipet: The client informed that the issue remains unresolved. Logged into the onsite Fortigate device and performed ping test with 5000 counts towards 8.8.8.8, observing a 1% packet loss. So, a service degradation ticket has been raised with the ISP under ticket number 1063337808.
+- Japan to US (International Link): A follow up mail was sent regarding if the traffic is running on the primary path. They will revert us back once it is resolved. Same has been updated in GLPI.
+
