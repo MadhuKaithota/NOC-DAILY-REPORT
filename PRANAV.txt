@@ -50,6 +50,17 @@ First shift update 14/01/2025
 3. Mars thane : Asked the RFO acknowledged the mail.
 CCNA 1 video
 
+First Shift Update 16/01/2025
+1. Ujjivan Sujanpur : Link was down did FLT it was up.
+2. Japan to US (International link): link was down informed to ISP kept follow up of the case for the initial findings and ETR but provider was still investigating the link no updates were given later it was handled by MR. Rohith.
+3. The Nudge : mail from client regarding  speed issue acknowledged the mail and firewall ping status was sent stating no issue from our end
+4. Mars Bhiwandi : Link was flapped for 3 min Expereo sent a mail for RFO sent RFO request for the ISP by sending Uptime graph.
+5. Corteva Jaipur RF : Link was down so created a ticket by sending a mail to ISP as link down but no updates from them.
+6. Corteva Jaipur Fiber : Expereo mailed us saying fluctuations are observed in the link but there was no dip found on the uptime graph same informed to expereo.  
+
+
+
+
 
 
 
