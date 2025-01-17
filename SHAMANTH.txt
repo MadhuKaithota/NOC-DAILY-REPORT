@@ -54,3 +54,9 @@ Second Shift Update (16-01-25):
 - Expereo Masaipet: The client informed that the issue remains unresolved. Logged into the onsite Fortigate device and performed ping test with 5000 counts towards 8.8.8.8, observing a 1% packet loss. So, a service degradation ticket has been raised with the ISP under ticket number 1063337808.
 - Japan to US (International Link): A follow up mail was sent regarding if the traffic is running on the primary path. They will revert us back once it is resolved. Same has been updated in GLPI.
 
+Second Shift Update (17-01-25):
+- Autoliv Cheyyar: The link is down again, and it is continuously flapping. Informed this to ISP to investigate the issue and work on a permanent fix. They said that the link has affected due to major fiber cut issue and they are working for restoration and the tentative ETR is tomorrow first half. Same has been updated in GLPI.
+- Autoliv Pune Fibre: The link was down, and the client requested a case to be opened. A case was raised with ISP Tata, but the link came back up within 10 minutes and the client is requesting the RFO. Acknowledged the mail and requested the same from the ISP. Same has been updated in GLPI.
+- Ujjivan Raniganj: There is a power issue at the site. Contacted the LPOC for confirmation.
+- Ujjivan Bhagalpur: The link was down. Contacted the LPOC and performed FLT. The WAN link is up, but the SIM is still not functional. 
+- Expereo ABB Dehradun: The link has been down in the NMS for a long period. Called LPOC to check the power status and as confirmed by him there was no power outage. So, a ticket has been raised with the ISP GTPL. There is issue with linear path and to restore it, the ISP has scheduled a FE visit for tomorrow morning and requires site access for the same. Same has been updated in GLPI.
