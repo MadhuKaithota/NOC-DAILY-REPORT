@@ -60,3 +60,8 @@ Second Shift Update (17-01-25):
 - Ujjivan Raniganj: There is a power issue at the site. Contacted the LPOC for confirmation.
 - Ujjivan Bhagalpur: The link was down. Contacted the LPOC and performed FLT. The WAN link is up, but the SIM is still not functional. 
 - Expereo ABB Dehradun: The link has been down in the NMS for a long period. Called LPOC to check the power status and as confirmed by him there was no power outage. So, a ticket has been raised with the ISP GTPL. There is issue with linear path and to restore it, the ISP has scheduled a FE visit for tomorrow morning and requires site access for the same. Same has been updated in GLPI.
+
+Second Shift Update (18-01-25):
+
+- Ujjivan Ranigaj - The link was down. Contacted the LPOC and performed FLT.
+- Corteva Dhamandevi: The link was down. Contacted the LPOC but no one was available at the site. So the ISP modem picture couldn't be provided today. But the provider requested snapshots to check whether the issue is on the customer’s side. This was conveyed to the ISP, and also asked them to check the upstream side for any issues. The ISP checked the upstream side and found that the link was down due to a fiber cut in the field. There was no mail received from the client, the provider asked for confirmation on the status of the link. Checked in the NMS and Cacti, and the snapshots have been sent to the provider. Same has been updated in GLPI.
