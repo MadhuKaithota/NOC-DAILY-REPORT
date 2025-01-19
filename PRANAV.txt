@@ -58,7 +58,12 @@ First Shift Update 16/01/2025
 5. Corteva Jaipur RF : Link was down so created a ticket by sending a mail to ISP as link down but no updates from them.
 6. Corteva Jaipur Fiber : Expereo mailed us saying fluctuations are observed in the link but there was no dip found on the uptime graph same informed to expereo.  
 
+18th Week off
 
+First Shift Update 19/01/2025
+1. Muratha Electronics : Link was down so raised the ticket.  ISP informed customer side port is down so to check called LC but office is closed so it should be done tomorrow
+2. Kerry Tumkuru : Link was down and LPOC informed there is power breakdown at site same informed to ISP and also to Expereo.  It was up after 1.30hours.
+CCNA 4 videos
 
 
 
