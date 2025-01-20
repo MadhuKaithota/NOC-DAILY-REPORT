@@ -62,6 +62,12 @@ Second Shift Update (17-01-25):
 - Expereo ABB Dehradun: The link has been down in the NMS for a long period. Called LPOC to check the power status and as confirmed by him there was no power outage. So, a ticket has been raised with the ISP GTPL. There is issue with linear path and to restore it, the ISP has scheduled a FE visit for tomorrow morning and requires site access for the same. Same has been updated in GLPI.
 
 Second Shift Update (18-01-25):
-
 - Ujjivan Ranigaj - The link was down. Contacted the LPOC and performed FLT.
 - Corteva Dhamandevi: The link was down. Contacted the LPOC but no one was available at the site. So the ISP modem picture couldn't be provided today. But the provider requested snapshots to check whether the issue is on the customer’s side. This was conveyed to the ISP, and also asked them to check the upstream side for any issues. The ISP checked the upstream side and found that the link was down due to a fiber cut in the field. There was no mail received from the client, the provider asked for confirmation on the status of the link. Checked in the NMS and Cacti, and the snapshots have been sent to the provider. Same has been updated in GLPI.
+
+Second Shift Update (19-01-25):
+- No mails.
+
+Second Shift Update (20-01-25):
+- Expereo Masaipet - Again the client is facing the same packet degradation issue. Acknowledged the mail and logged into the onsite Fortigate device to check the issue. There is some packet loss, so this has been conveyed to the ISP again. Same has been updated in GLPI.
+- Tempel Steel - The link is up and running fine. The client is asking for RFO. Acknowledged the mail and requested RFO with the ISP. They informed that they will update regarding the RFO by tomorrow's first half. Same has been updated in GLPI.
