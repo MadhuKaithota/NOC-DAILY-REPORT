@@ -71,3 +71,9 @@ Second Shift Update (19-01-25):
 Second Shift Update (20-01-25):
 - Expereo Masaipet - Again the client is facing the same packet degradation issue. Acknowledged the mail and logged into the onsite Fortigate device to check the issue. There is some packet loss, so this has been conveyed to the ISP again. Same has been updated in GLPI.
 - Tempel Steel - The link is up and running fine. The client is asking for RFO. Acknowledged the mail and requested RFO with the ISP. They informed that they will update regarding the RFO by tomorrow's first half. Same has been updated in GLPI.
+
+Second Shift Update (21-01-25):
+
+- Mofa Netherlands – They are asking for the RFO for the outage they mentioned previously. Acknowledged the mail and sent a follow-up email to the ISP, Spectra. Same has been updated in GLPI.
+- Autoliv Pune – They are asking for the reason for the fiber cut. Acknowledged the mail and sent a follow-up email to the ISP, Tata. Same has been updated in GLPI.
+- Expereo Masaipet – They are still facing the service degradation issue. Logged into the FortiGate device and performed a ping test, sourcing from 117.250.206.193 to 8.8.8.8 with a 2500 packet count. There is some packet loss. Informed the ISP regarding this issue, but they are not responding to our calls and messages.
