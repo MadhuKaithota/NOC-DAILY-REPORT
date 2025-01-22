@@ -1,7 +1,14 @@
 21-01-2025
 
 1.Expereo _ Mars Bhiwandi :- link was down. TT has been raised to ISP. Link is restored and costumer asks for a RFO, So asked ISP for a RFO but no reply from ISP. 
- 2. Ujjivan Irrupu 1668 - link was down. FLT conducted and link is restored .
- 3.Expereo _Corteva_wargal :- Link was down. Called the LPOC to get power status confirmation he didn't respond so raised the ticket with ISP GTPL. The link is restored.
+2. Ujjivan Irrupu 1668 - link was down. FLT conducted and link is restored .
+3.Expereo _Corteva_wargal :- Link was down. Called the LPOC to get power status confirmation he didn't respond so raised the ticket with ISP GTPL. The link is restored.
    Costumer asks for a RFO. RFO has been provided to costumer.
+_____________________________________________________________________________________________________________________________________________________________________________________
 
+Date :- 22-01-2025 |    Shift update -
+
+
+1. Ujjivan Janakpuri 2395 link was down, Contacted LPOC and conducted FLT. Link is restored.
+2. Expereo Masaipet asks to ping the source from  the onsite device towards 8.8.8.8 and 1.1.1.1 sourced  for packet count 8000. 
+3. Mofa Netherland requested RFO, convey same to ISP but no reply from them.
