@@ -65,6 +65,25 @@ First Shift Update 19/01/2025
 2. Kerry Tumkuru : Link was down and LPOC informed there is power breakdown at site same informed to ISP and also to Expereo.  It was up after 1.30hours.
 CCNA 4 videos
 
+First Shift update 20/01/25
+1 Ujjivan Abalouva : Did FLT and it was up
+2. Ujjivan Babanipur : Did FLT it  was up.
+3. Corteva nadipalli : Power issue at the site confirmed by LPOC
+4. Ujjivan Bagalkote : power issue at site LPO
+5. Masaipet  : Sent firewall ping snap to expereo for service degradation.
+6. Mofa Netherlands  : Asked RFO asked to ISP
+7. Autoliv pune : Asked the reason for the fiber cut with client.
+
+First Shift update 21/01/25
+1. Mars Bhiwandi : Asked for the Ujjivan Dogachia : Did FLT link came up.
+2. Mofa Netherlands : Sent RFO follow up mail to provider.
+3. Mars Bhiwandi : Asked for the RFO update Acknowledged the Mail.
+4. Mars Wargal : Link was down so raised the ticket with the isp and also did follow up for the case.
+
+First Shift Update 22/01/2025
+1. Ujjivan Dogachia : Link was down so called and did FLT.
+2. Corteva Masaipet : Ongoing Service degradation issue from 3days asked for the update but isp is not responding to us so same has been informed to Rohith sir and acknowledged mail from Expereo.
+
 
 
 
