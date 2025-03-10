@@ -12,3 +12,5 @@ Date :- 22-01-2025 |    Shift update -
 1. Ujjivan Janakpuri 2395 link was down, Contacted LPOC and conducted FLT. Link is restored.
 2. Expereo Masaipet asks to ping the source from  the onsite device towards 8.8.8.8 and 1.1.1.1 sourced  for packet count 8000. 
 3. Mofa Netherland requested RFO, convey same to ISP but no reply from them.
+
+
